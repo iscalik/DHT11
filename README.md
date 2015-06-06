@@ -44,4 +44,4 @@ Mehmet Nuri Öztürk
  <mehmetnuri.ozturk@pardus.net.tr>
  
 Erdoğan Bilgici 
-<erdogan.bilgici@pardus.net.tr>
+<destek@linuxcozumleri.com>
