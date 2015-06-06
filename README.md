@@ -20,7 +20,8 @@ Bu proje IoT Projesi olup, Pardus ARM ekibi tarafından geliştirilmiştir. Bu p
 Devrenin Kurulumu
 ------------
 Devremizi şemada görüldüğü gibi yaptıktan sonra, Raspberry Pi üzerinde işlemler yapmaya başlayabiliriz.
-![enter image description here](https://github.com/iscalik/iscalik.github.io/raw/master/DHT11/dht11_2.png)
+
+![enter image description here](https://raw.githubusercontent.com/iscalik/iscalik.github.io/master/DHT11/dht11_2.png?token=AFkGKWqNwdFaNY9Hha9bNnpvBiH2KXkjks5VfDK6wA%3D%3D)
 
 Kullanımı
 -----
@@ -32,7 +33,7 @@ Derlemek bittikten sonra, programı açmak için yönetici izni ile aşağıdaki
 
     ./dht11
 Belirtilen işlemlerde sorun yok ise çıktı olarak şu bilgileri göreceksiniz.
-![enter image description here](https://github.com/iscalik/iscalik.github.io/raw/master/DHT11/dht11_3.png)
+![enter image description here](https://raw.githubusercontent.com/iscalik/iscalik.github.io/master/DHT11/dht11_3.png?token=AFkGKb6UoEaYXlKpg0WmbKkKkPGUV_Nhks5VfI2uwA%3D%3D)
 
 ***Destek***
 
@@ -45,3 +46,4 @@ Mehmet Nuri Öztürk
  
 Erdoğan Bilgici 
 <destek@linuxcozumleri.com>
+
